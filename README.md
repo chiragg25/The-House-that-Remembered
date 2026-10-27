@@ -40,7 +40,7 @@ A complete, story-driven, fully offline 3D mystery exploration game designed for
 
 ---
 
-## 🚀 How to Launch (Exhibition Mode)
+## 🚀 How to Launch 
 
 ### Method 1: Standalone Desktop Game (Recommended)
 Download `TheHouseThatRemembered.exe` directly from this repository, place it on your Desktop, and double-click to play immediately:
